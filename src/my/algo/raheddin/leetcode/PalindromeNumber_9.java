@@ -1,4 +1,4 @@
-package my.jdbc.raheddin.leetcode;
+package my.algo.raheddin.leetcode;
 
 public class PalindromeNumber_9 {
     public static void main(String[] args) {

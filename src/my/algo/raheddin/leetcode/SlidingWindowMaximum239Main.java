@@ -1,4 +1,4 @@
-package my.jdbc.raheddin.leetcode;
+package my.algo.raheddin.leetcode;
 
 
 import java.util.ArrayDeque;

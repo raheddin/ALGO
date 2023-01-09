@@ -1,4 +1,4 @@
-package my.jdbc.raheddin.algo_Deque;
+package my.algo.raheddin.algo_Deque;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

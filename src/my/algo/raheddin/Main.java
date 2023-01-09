@@ -1,4 +1,4 @@
-package my.jdbc.raheddin;
+package my.algo.raheddin;
 
 public class Main {
 

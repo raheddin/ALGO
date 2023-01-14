@@ -8,7 +8,6 @@ public class BinaryTreePreorderTraversal_144 {
     public static void main(String[] args) {
 
 
-
     }
 
     public static List<Integer> preorderTraversal(TreeNode root) {
